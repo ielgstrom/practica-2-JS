@@ -8,6 +8,7 @@ module.exports = {
     ecmaVersion: 12,
   },
   rules: {
+    "prefer-template": "off",
     "no-shadow": "off",
     "no-console": "off",
     "arrow-parens": "off",
